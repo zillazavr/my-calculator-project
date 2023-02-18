@@ -1,1 +1,1 @@
-This is my-calculator-project )))
+Тестовый проект для Kata Academy
